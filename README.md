@@ -3,7 +3,7 @@ layout: theme
 title: preto
 category: fork
 homepage: https://github.com/borteo/preto
-download: https://github.com/borteo/preto
+download: https://github.com/borteo/preto/archive/0.0.1.zip
 author: borteo
 ---
 
