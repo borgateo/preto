@@ -8,6 +8,8 @@ author: borteo
 
 # Preto
 
+(Portuguese pronunciation: [ˈpɾetu], Black)
+
 Another dark theme 🖤
 Inspired by Notion and Google Fonts dark theme. 
 
