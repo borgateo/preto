@@ -341,15 +341,14 @@ bottom: .375rem;
   top: .285714286rem;
 }
 #write>h5.md-focus:before{
-left: -1.5625rem;
-top: .285714286rem;
+  left: -1.5625rem;
+  top: .285714286rem;
 }
 #write>h6.md-focus:before{
-left: -1.5625rem;
-top: .285714286rem;
+  left: -1.5625rem;
+  top: .285714286rem;
 }
 .md-image>.md-meta {
-  /*border: 1px solid #ddd;*/
   border-radius: 3px;
   padding: 2px 0px 0px 4px;
   font-size: 0.9em;
