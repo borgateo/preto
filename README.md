@@ -1,7 +1,6 @@
 ---
 layout: theme
 title: preto
-category: fork
 homepage: https://github.com/borteo/preto
 download: https://github.com/borteo/preto/archive/0.0.1.zip
 author: borteo
@@ -9,7 +8,8 @@ author: borteo
 
 # Preto
 
-Another dark Theme inspired by Notion and Google Fonts dark theme
+Another dark theme 🖤
+Inspired by Notion and Google Fonts dark theme. 
 
 ## Details
 
@@ -34,7 +34,7 @@ A couple of screenshots of the Lorem ipsum file provided by Typora:
 1. Clone this repo
 2. Open Typora
 3. Go to 'Typora' > 'Preference...' (⌘ + ,)
-4. From 'General' Tab, click on 'Open Theme Folder'
-5. copy `preto.css` and `preto/` into the Theme folder
+4. From 'General' Tab, click 'Open Theme Folder'
+5. copy `preto.css` and `preto/` from the cloned repo into the Theme folder
 6. Restart Typora
 7. Select preto from the 'Themes'
