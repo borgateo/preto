@@ -1,0 +1,2 @@
+# preto
+Dark Typora Theme
