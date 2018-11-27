@@ -10,8 +10,8 @@ author: borteo
 
 (Portuguese pronunciation: [ˈpɾetu], Black)
 
-Another dark theme 🖤
-Inspired by Notion and Google Fonts dark theme.
+Dark theme 🖤
+Inspired by Notion and Google Fonts dark theme, with a hint of red.
 
 ## Details
 
@@ -20,7 +20,7 @@ Inspired by Notion and Google Fonts dark theme.
   * paragraphs use `Montserrat`
   * the font size is 15px
   * only heading 1 has a line underneath it
-  * links, toc and inline code are color red
+  * links, toc, checked checkboxes and inline code are color red (#DA605C)
 
 All the rest derives from the default github theme.
 
@@ -28,8 +28,8 @@ All the rest derives from the default github theme.
 
 A couple of screenshots of the Lorem ipsum file provided by Typora:
 
-![screen1](/previews/loremipsumpreto1.png)
-![screen2](/previews/loremipsumpreto2.png)
+![screen1](/previews/loremipsum-1.png)
+![screen2](/previews/loremipsum-2.png)
 
 ## How to use it
 
