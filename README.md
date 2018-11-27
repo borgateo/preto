@@ -2,7 +2,7 @@
 layout: theme
 title: preto
 homepage: https://github.com/borteo/preto
-download: https://github.com/borteo/preto/archive/0.0.1.zip
+download: https://github.com/borteo/preto/archive/0.0.2.zip
 author: borteo
 ---
 
@@ -20,7 +20,7 @@ Inspired by Notion and Google Fonts dark theme, with a hint of red.
   * paragraphs use `Montserrat`
   * the font size is 15px
   * only heading 1 has a line underneath it
-  * links, toc, checked checkboxes and inline code are color red (#DA605C)
+  * links, toc, checked checkboxes and inline code are color red (#DA605C)  
 
 All the rest derives from the default github theme.
 
