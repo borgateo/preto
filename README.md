@@ -40,3 +40,4 @@ A couple of screenshots of the Lorem ipsum file provided by Typora:
 5. copy `preto.css` and `preto/` from the cloned repo into the Theme folder
 6. Restart Typora
 7. Select preto from the 'Themes'
+8. 
