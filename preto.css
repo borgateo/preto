@@ -341,14 +341,15 @@ bottom: .375rem;
   top: .285714286rem;
 }
 #write>h5.md-focus:before{
-  left: -1.5625rem;
-  top: .285714286rem;
+left: -1.5625rem;
+top: .285714286rem;
 }
 #write>h6.md-focus:before{
-  left: -1.5625rem;
-  top: .285714286rem;
+left: -1.5625rem;
+top: .285714286rem;
 }
 .md-image>.md-meta {
+  /*border: 1px solid #ddd;*/
   border-radius: 3px;
   padding: 2px 0px 0px 4px;
   font-size: 0.9em;
@@ -462,7 +463,7 @@ header, .context-menu, .megamenu-content, footer {
   color: white !important;
 }
 
-/**apply to code fences with plan text**/
+/* Apply to code fences with plan text */
 .md-fences {
   background-color: #404447;
   color: rgba(233, 237, 237, 1);
@@ -471,4 +472,40 @@ header, .context-menu, .megamenu-content, footer {
 
 .md-fences .code-tooltip {
   background-color: #404447;
+}
+
+/* Checkbox */
+
+/* Checkbox */
+.task-list{
+  padding-left: 15px;
+}
+
+.task-list-item {
+  padding-left: 3em;
+  list-style-type: none;
+}
+
+.task-list-item input:before {
+  content: "";
+  display: inline-block;
+  width: 21px;
+  height: 21px;
+  vertical-align: middle;
+  text-align: center;
+  background-color: #2E3236;
+  border-radius: 3px;
+  position: relative;
+  top: -5px;
+  left: -7px;
+  box-shadow: 0px 0px 5px #111 inset, 0px 0px 1px rgba(255, 255, 255, 0.3);
+}
+
+.task-list-item input:checked:before,
+.task-list-item input[checked]:before{
+  background-color: #ff5252;
+  box-shadow: none;
+  content: "✔";
+  color: #333;
+  line-height: 1.5;
 }

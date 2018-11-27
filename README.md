@@ -11,7 +11,7 @@ author: borteo
 (Portuguese pronunciation: [ˈpɾetu], Black)
 
 Another dark theme 🖤
-Inspired by Notion and Google Fonts dark theme. 
+Inspired by Notion and Google Fonts dark theme.
 
 ## Details
 
